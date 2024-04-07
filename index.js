@@ -1,2 +1,2 @@
 alert("Hello");
-alert("False")
+alert("True")
